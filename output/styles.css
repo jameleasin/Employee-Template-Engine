@@ -1,0 +1,70 @@
+body{
+    width:100vw;
+    height:100vw;    
+    background: url("../assets/background.jpg");
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#cog{
+    align-items: left;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#title{
+     z-index: 200;
+    text-align: center;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: #133649;
+    font-weight: 900;
+    font-size: 72;
+   
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    color: #1E5C7E;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    color: #5A93AB;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #133649;
+}
+a{
+    color: #C65628;
+}
+
+.employee-card {
+    font-family: 'Roboto', sans-serif;
+    margin: 15px;
+    border-radius: 10px;
+    width: 300px;
+    transition: 0.5s ease;
+    
+
+}
+
+.employee-card:hover {
+    transform: scale(1.1);
+    box-shadow: 8px 8px 8px black;
+}
