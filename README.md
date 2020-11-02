@@ -6,4 +6,5 @@ This application is constructed using NODE.JS, HTML, CSS, JAVASCRIPT and JQUERY.
 <br />
 <h2>Final outcome</h2>
 <br />
-![Readme](https://user-images.githubusercontent.com/62285850/97822080-9b1c0b80-1cef-11eb-880b-d855edb6d683.PNG)
+
+![Readme](https://user-images.githubusercontent.com/62285850/97822164-dcacb680-1cef-11eb-877e-204fd15db681.PNG)
